@@ -1,5 +1,5 @@
 # HeLa-QC-automation
-The app would consolidate all the necessary steps to automate the data process of a standard sample (e.g. HeLa cells), allowing researchers to assess the quality and reliability of the mass spectrometer. 
+The app consolidates all the necessary steps to automate the data process of a standard sample (e.g. HeLa cells), allowing researchers to assess the quality and reliability of the mass spectrometer. 
 Below is a summary of how the app pipeline works:
 1.	Copy the raw files from the instrument computer to the central data storage 
 2.	Process the data using Proteome Discoverer
