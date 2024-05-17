@@ -60,7 +60,7 @@ ui <- fluidPage(
     titlePanel("HeLa QC"), 
     fluidRow(
         column(12,
-               img(src="https://www.covanttx.com/themes/custom/covant/images/logo-nav.svg",height='100',width='100'),
+               img(src="logo.svg",height='100',width='100'),
                navbarPage( "HeLa MS Quality Control",
 
                           tabPanel("Eclipse_1",
